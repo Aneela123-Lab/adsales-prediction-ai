@@ -1,3 +1,135 @@
+
+# AdSales Prediction AI
+
+An AI-powered web application that predicts product sales based on advertising expenditure across different marketing platforms such as TV, Radio, and Newspaper ads.
+
+## 🚀 Live Demo
+
+🌐 https://adsales-prediction-ai.vercel.app/
+
+---
+
+## 📌 Project Overview
+
+AdSales Prediction AI helps businesses and marketers estimate future sales performance using Machine Learning algorithms. Users can input advertising budgets and receive predicted sales results instantly.
+
+The project demonstrates the practical implementation of:
+- Data Analysis
+- Machine Learning
+- Regression Modeling
+- AI-based Prediction Systems
+- Interactive Web Deployment
+
+---
+
+## ✨ Features
+
+- Predict sales using advertising budget data
+- Interactive and user-friendly interface
+- Real-time prediction results
+- Machine Learning powered backend
+- Clean and responsive UI
+- Fast deployment using Vercel
+
+---
+
+## 🧠 Technologies Used
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+### Backend / AI
+- Python
+- Flask / Streamlit
+- Scikit-learn
+- Pandas
+- NumPy
+
+### Deployment
+- Vercel
+
+## 📊 Machine Learning Model
+
+The application uses a Regression-based Machine Learning model trained on advertising datasets to predict sales outcomes based on:
+- TV Advertising Budget
+- Radio Advertising Budget
+- Newspaper Advertising Budget
+---
+
+## ⚙️ Installation
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/adsales-prediction-ai.git
+```
+
+### Navigate to Project Folder
+
+```bash
+cd adsales-prediction-ai
+```
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run the Application
+
+```bash
+python app.py
+```
+
+---
+
+## 📈 Future Improvements
+
+- Advanced AI prediction models
+- Data visualization dashboards
+- User authentication system
+- Cloud database integration
+- Marketing analytics reports
+- Export prediction results as PDF
+
+---
+
+## 🎯 Use Cases
+
+- Marketing campaign analysis
+- Business sales forecasting
+- Advertising budget optimization
+- AI learning projects
+- Machine Learning portfolio projects
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome. Feel free to fork the repository and submit pull requests.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👩‍💻 Author
+
+Developed by Aneela
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a star on GitHub ⭐
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
