@@ -7,6 +7,8 @@ An AI-powered web application that predicts product sales based on advertising e
 
 🌐 https://adsales-prediction-ai.vercel.app/
 
+<img width="1898" height="885" alt="image" src="https://github.com/user-attachments/assets/76591add-f748-45bf-be75-d9a50e179892" />
+
 ---
 
 ## 📌 Project Overview
