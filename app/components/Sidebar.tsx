@@ -229,9 +229,9 @@ export default function Sidebar() {
           <p className="text-[11px] text-slate-400 leading-relaxed mb-3">
             Contact our data science team for custom model tuning or enterprise solutions.
           </p>
-          <button className="w-full py-1.5 rounded-lg bg-emerald-500 hover:bg-emerald-400 text-xs font-semibold text-white transition-colors duration-200">
-            Get Support
-          </button>
+          <a data-id="mailto-support-button" href="mailto:aneelaarain279@gmail.com" className="w-full block text-center py-1.5 rounded-lg bg-emerald-500 hover:bg-emerald-400 text-xs font-semibold text-white transition-colors duration-200">
+            Email aneelaarain279@gmail.com
+          </a>
         </div>
       </nav>
 
