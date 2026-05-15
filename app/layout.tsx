@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { AppProvider } from "./context/AppContext";
 import SessionProviderContext from "./context/SessionProviderContext";
+import { Analytics } from '@vercel/analytics/next';
 
 export const metadata: Metadata = {
   title: "AdSales AI — Advertising Sales Prediction System",
@@ -29,6 +30,7 @@ export default function RootLayout({
         <SessionProviderContext>
           <AppProvider>{children}</AppProvider>
         </SessionProviderContext>
+        <Analytics />
       </body>
     </html>
   );
